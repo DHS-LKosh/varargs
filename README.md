@@ -32,6 +32,3 @@ playOff('L', 'T', 'W', 1) --> true
 playOff('L', 'T', 'W', 10) --> false
 ```
 
-## Question 5
-
-
