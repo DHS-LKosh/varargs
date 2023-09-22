@@ -27,8 +27,8 @@ Write a method that will accept a variable number of characters that represent t
 | 'T'  |    Tie     |  1  |
 
 ```
-playOff('W', 'T', 'W', 3) --> true
-playOff('L', 'T', 'W', 1) --> true
-playOff('L', 'T', 'W', 10) --> false
+playOff(3, 'W', 'T', 'W') --> true
+playOff(1, 'L', 'T', 'W') --> true
+playOff(10, 'L', 'T', 'W') --> false
 ```
 
